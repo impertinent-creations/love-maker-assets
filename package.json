@@ -1,5 +1,5 @@
 {
-  "name": "your-app",
+  "name": "love-maker-assets",
   "description": "Description",
   "author": "Your Name",
   "version": "0.0.1",
@@ -17,5 +17,12 @@
     "uglify-js-brunch": ">= 1.0 < 1.8",
     "clean-css-brunch": ">= 1.0 < 1.8",
     "auto-reload-brunch": ">= 1.0 < 1.8"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [
+    "love2d",
+    "lua"
+  ],
+  "license": "GPL-3.0"
 }
