@@ -1,11 +1,17 @@
 {
   "name": "your-app",
   "description": "Description",
-  "author": "Your Name",
+  "author": "rafszul",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/impertinent-creations/love-maker-assets/issues"
+  },
+  "homepage": "https://github.com/impertinent-creations/love-maker-assets#readme"
+}
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/impertinent-creations/love-maker-assets.git"
   },
   "scripts": {
     "start": "brunch watch --server",
