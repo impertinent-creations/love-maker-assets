@@ -1,27 +1,21 @@
 {
-  "name": "love-maker-assets",
+  "name": "your-app",
   "description": "Description",
-  "author": "rafszul",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/impertinent-creations/love-maker-assets/issues"
-  },
-  "homepage": "https://github.com/impertinent-creations/love-maker-assets#readme"
-}
+  "author": "Your Name",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/impertinent-creations/love-maker-assets.git"
+    "url": ""
   },
   "scripts": {
     "start": "brunch watch --server",
     "test": "brunch test"
   },
   "dependencies": {
-    "auto-reload-brunch": ">= 1.0 < 1.8",
-    "clean-css-brunch": ">= 1.0 < 1.8",
+    "javascript-brunch": ">= 1.0 < 1.8",
     "css-brunch": ">= 1.0 < 1.8",
-    "javascript-brunch": "^1.7.1",
-    "uglify-js-brunch": ">= 1.0 < 1.8"
+    "uglify-js-brunch": ">= 1.0 < 1.8",
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "auto-reload-brunch": ">= 1.0 < 1.8"
   }
 }
