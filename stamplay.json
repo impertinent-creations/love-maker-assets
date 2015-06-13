@@ -1,0 +1,10 @@
+{
+  "appId": "signoff",
+  "apiKey": "17cda35c991f248ae134d176e2d7dfa2bf60945cbc0e8add54c134f29555df02",
+  "public": "./public/",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
